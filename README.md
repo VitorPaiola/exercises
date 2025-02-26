@@ -116,4 +116,4 @@ Este projeto foi desenvolvido por mim e está livre para uso e modificação sem
 
 ### 🤝 **Contribuições**
 
-Contribuições são sempre bem-vindas! Se você tem sugestões ou gostaria de adicionar novos cálculos ou funcionalidades, sinta-se à vontade para abrir um Pull Request. Estamos ansiosos para ver suas melhorias! 😃
+Contribuições são sempre bem-vindas! Se você tem sugestões ou gostaria de adicionar novos cálculos ou funcionalidades, sinta-se à vontade para abrir um Pull Request. Estou ansioso para ver suas melhorias! 😃
