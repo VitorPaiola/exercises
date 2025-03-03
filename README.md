@@ -110,6 +110,12 @@ fahrenheit = (celsius * 9/5) + 32;
 celsius = (fahrenheit - 32) * 5/9;
 ```
 
+## 📌 Quer acompanhar mais dicas e novidades sobre Java?
+
+🔔 Fique por dentro de tudo sobre Java! Me siga no [Twitter](https://x.com/v__souz) para receber dicas, novidades e atualizações! 🚀✨
+
+---
+
 ### 📜 **Licença**
 
 Este projeto foi desenvolvido por mim e está livre para uso e modificação sem restrições formais. Fique à vontade para usar e adaptar o código conforme necessário.
